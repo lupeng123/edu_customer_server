@@ -1,0 +1,14 @@
+collection_name : rag
+persist_directory : chroma_db
+k : 3
+
+
+child_chunk_size: 400
+child_chunk_overlap: 80
+child_separators: ["\n\n", "\n", ".", "!", "?", "。", "！", "？", " ", ""]
+
+parent_chunk_size: 1800
+parent_chunk_overlap: 200
+parent_separators: ["\n\n", "\n"]
+
+md5_hex_store: md5.text

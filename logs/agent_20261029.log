@@ -1,0 +1,256 @@
+2026-10-29 10:46:39,324 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 10:46:39,324 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 10:46:42,336 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：rag_summarize
+2026-10-29 10:46:43,682 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 10:46:43,682 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 春季语文培优班课程次数为24次。
+2026-10-29 10:48:34,252 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 10:48:34,253 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 10:48:35,332 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 10:48:35,334 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 10:48:35,334 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 10:57:44,575 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 10:57:44,576 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 10:57:53,746 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 10:57:53,746 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 开课前 3 天退费扣多少钱？
+2026-10-29 10:57:55,973 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：rag_summarize
+2026-10-29 10:57:58,974 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 10:57:58,974 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 开课前退费政策如下：距离开班7天及以上申请全额退款，无扣费；1至6天内申请则扣除5%手续费后退还剩余金额。
+2026-10-29 10:58:07,826 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 10:58:07,826 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 转人工客服
+2026-10-29 10:58:08,772 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 10:58:08,775 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 10:58:08,775 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 10:59:29,407 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 10:59:29,408 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我叫路鹏
+2026-10-29 10:59:33,000 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 10:59:33,000 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我叫啥
+2026-10-29 11:03:28,547 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:03:28,547 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 11:03:51,849 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:03:51,849 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 11:04:13,721 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:04:13,721 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 11:04:17,830 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 11:04:17,833 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 11:04:17,833 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 11:14:14,749 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:14:14,750 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:14:38,851 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:14:38,852 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:15:33,200 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:15:33,200 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:17:38,372 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:17:38,373 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:18:22,955 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:18:22,955 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:19:18,310 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:19:18,311 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:20:06,980 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:20:06,980 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:20:41,626 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:20:41,626 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:21:26,951 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:21:26,951 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:21:46,663 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:21:46,663 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:29:56,363 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:29:56,363 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:32:31,024 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:32:31,024 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:32:42,184 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:32:42,185 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 11:33:50,981 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:33:50,981 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课
+2026-10-29 11:37:06,483 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:37:06,483 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 11:37:08,516 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 11:37:08,519 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 11:37:08,519 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 11:42:35,488 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:42:35,488 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:43:06,149 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:43:06,149 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:43:39,876 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:43:39,877 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 11:44:15,458 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 11:44:15,459 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 14:29:09,905 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:29:09,905 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:29:11,500 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:29:11,503 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:29:11,503 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:29:55,884 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:29:55,884 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:30:24,111 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:30:24,111 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:30:25,513 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:30:25,515 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:30:25,515 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:31:38,300 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:31:38,301 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:32:00,533 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:32:00,534 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:32:26,710 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:32:26,710 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:33:33,575 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:33:33,575 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:40:13,953 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:40:13,953 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:40:16,291 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:40:16,294 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:40:16,294 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:40:47,837 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:40:47,837 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:40:50,409 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:40:50,412 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:40:50,412 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:41:07,490 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:41:07,490 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:41:08,635 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:41:08,637 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:41:08,638 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:48:38,074 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:48:38,074 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:48:39,109 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:52:21,521 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:52:21,522 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:52:22,739 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:52:22,741 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:52:22,742 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:52:57,162 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:52:57,163 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:52:59,526 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:52:59,528 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:52:59,528 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:54:41,966 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:54:41,966 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:54:44,379 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:54:44,382 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:54:44,382 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:55:01,272 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:55:01,272 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:55:04,121 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:55:04,124 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:55:04,124 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:55:51,830 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:55:51,830 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:55:54,540 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:55:54,542 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:55:54,543 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:58:02,178 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:58:02,178 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 我要转人工客服
+2026-10-29 14:58:04,696 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：transfer_to_human
+2026-10-29 14:58:04,699 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 14:58:04,699 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 已经为您转接人工客服，请您耐心等待，助教很快会联系您
+2026-10-29 14:59:14,071 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:59:14,072 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 14:59:23,828 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 14:59:23,829 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:00:06,069 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:00:06,069 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:00:14,041 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：query_student_order
+2026-10-29 15:00:14,044 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:00:14,044 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 订单信息：春季语文培优B班，2026-03-07开课，每周日14:30-16:00，实付1800元
+2026-10-29 15:00:16,900 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:00:18,356 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有5条消息
+2026-10-29 15:00:18,356 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 春季语文培优班课程次数为24次。
+2026-10-29 15:00:59,662 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:00:59,662 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:01:01,305 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:01:02,495 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:01:02,495 - agent - DEBUG - middleware.py:17 - [log_befor_model]:ToolMessage | 春季语文培优班课程次数为24次。
+2026-10-29 15:02:38,309 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:02:38,309 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:04:23,858 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:04:23,858 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:07:51,527 - agent - INFO - middleware.py:15 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:07:51,528 - agent - DEBUG - middleware.py:17 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:07:54,304 - agent - INFO - middleware.py:25 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:08:51,639 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:08:51,639 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:08:57,535 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:08:58,567 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:08:58,567 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 春季语文培优班课程总数为24次。
+2026-10-29 15:18:14,852 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:18:14,852 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课？
+2026-10-29 15:18:17,955 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:18:19,135 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:18:19,136 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 春季语文培优班课程次数为24次。
+2026-10-29 15:19:14,324 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:19:14,324 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 语文 A 班上课时间？
+2026-10-29 15:19:20,180 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:19:21,921 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:19:21,921 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 语文A班上课时间为周六上午09:00–10:30。
+2026-10-29 15:24:27,814 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:24:27,814 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 语文 A 班上课时间？
+2026-10-29 15:24:32,630 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:24:34,673 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:24:34,673 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 语文A班上课时间为周六上午09:00–10:30。
+2026-10-29 15:25:33,929 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:25:33,929 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你们老师是什么学历？
+2026-10-29 15:26:02,961 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:26:02,961 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 春季班开课之后还能调班吗？
+2026-10-29 15:26:05,202 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:26:08,954 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:26:08,955 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 开课后仅允许调班1次，且目标班次必须有名额；满班状态无法调入。调班不扣费，上课次数延续之前班级记录。不能单独更改上课时间，需通过调班实现。
+2026-10-29 15:29:36,185 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:29:36,185 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课?
+2026-10-29 15:29:38,239 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:29:39,566 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:29:39,567 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 春季语文培优班课程次数为24次。
+2026-10-29 15:30:31,781 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:30:31,781 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 春季语文培优班一共多少次课?
+2026-10-29 15:30:37,223 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:31:01,032 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:31:01,032 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 春季语文培优班面向小学3-4年级学生，2026年3月7日开课，8月22日结课，共24次课，每周1次，每次90分钟，采用线上腾讯会议直播形式。每班上限20人，最低8人开班。课程分为A班（周六上午09:00 – 10:30）和B班（周日下午14:30 – 16:00）。主要目标是提升阅读理解与结构化写作能力，夯实基础，拓展题型，适配校内单元考点，并为小升初做准备。课程内容涵盖记叙文、说明文、散文、古诗文阅读及各类文体写作训练。提供纸质讲义、习题册等配套资料，上课前需准备好纸质讲义并完成预习。每节课有固定的流程，包括知识点讲解、例题精讲、随堂练习等环节。
+2026-10-29 15:33:09,114 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:33:09,115 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 春季班开课之后还能调班吗？
+2026-10-29 15:33:11,387 - agent - INFO - middleware.py:26 - [tool monitor]执行工具：rag_summarize
+2026-10-29 15:33:15,782 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 15:33:15,782 - agent - DEBUG - middleware.py:18 - [log_befor_model]:ToolMessage | 春季班开课后允许调班1次，但目标班次必须有名额；满班状态无法调入。同一科目不能同时占两个班次名额。调班后上课次数延续之前班级的记录。优先推荐调班，调班不扣费。
+2026-10-29 15:45:29,693 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:45:29,694 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 15:48:27,396 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:48:27,396 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 15:51:49,928 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:51:49,929 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 15:53:16,910 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:53:16,911 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 15:54:36,076 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:54:36,076 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你好呀
+2026-10-29 15:54:45,297 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:54:45,297 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 好的
+2026-10-29 15:57:37,445 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:57:37,445 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 15:57:45,628 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:57:45,629 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 你好呀
+2026-10-29 15:57:49,516 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 15:57:49,517 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 好的
+2026-10-29 16:06:01,838 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 16:06:01,838 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 我叫路鹏
+2026-10-29 16:06:10,890 - agent - INFO - middleware.py:16 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 16:06:10,890 - agent - DEBUG - middleware.py:18 - [log_befor_model]:HumanMessage | 我叫啥
+2026-10-29 16:14:25,356 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 16:14:25,357 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 你好
+2026-10-29 16:14:30,800 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 16:14:30,800 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 我叫啥
+2026-10-29 16:14:40,898 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有5条消息
+2026-10-29 16:14:40,898 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 我叫路鹏
+2026-10-29 16:14:56,788 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 16:14:56,788 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 我叫啥
+2026-10-29 16:15:09,855 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有7条消息
+2026-10-29 16:15:09,855 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 我叫啥
+2026-10-29 16:20:14,367 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有1条消息
+2026-10-29 16:20:14,367 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 我叫啥
+2026-10-29 16:20:35,843 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有3条消息
+2026-10-29 16:20:35,843 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 上课推荐用什么设备？
+2026-10-29 16:21:46,837 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有5条消息
+2026-10-29 16:21:46,837 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 语文 A 班上课时间？
+2026-10-29 16:21:50,785 - agent - INFO - middleware.py:24 - [tool monitor]执行工具：query_student_order
+2026-10-29 16:21:50,789 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有7条消息
+2026-10-29 16:21:50,789 - agent - DEBUG - middleware.py:16 - [log_befor_model]:ToolMessage | 订单信息：春季语文培优B班，2026-03-07开课，每周日14:30-16:00，实付1800元
+2026-10-29 16:22:14,140 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有9条消息
+2026-10-29 16:22:14,140 - agent - DEBUG - middleware.py:16 - [log_befor_model]:HumanMessage | 我要看语文 A 班上课时间？
+2026-10-29 16:22:17,963 - agent - INFO - middleware.py:24 - [tool monitor]执行工具：rag_summarize
+2026-10-29 16:22:19,562 - agent - INFO - middleware.py:14 - [log_befor_model]:即将调用模型，带有11条消息
+2026-10-29 16:22:19,562 - agent - DEBUG - middleware.py:16 - [log_befor_model]:ToolMessage | 语文A班上课时间是周六上午09:00–10:30。

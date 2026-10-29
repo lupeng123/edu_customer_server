@@ -1,0 +1,3 @@
+chat_model_name: qwen-max
+embedding_model_name: text-embedding-v4
+model_qwen_flash: qwen-flash
